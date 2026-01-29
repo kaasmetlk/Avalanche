@@ -7,38 +7,33 @@
 ## Key Features
 
 ### Smart Scanning
-- **4 Scan Strategies** — Bestselling, Favorited, Relevance, Recent
-- **Keyword Search** — Target specific niches
-- **MinFavorites Filter** — Only upload proven sellers
-- **Blacklist System** — Skip banned creators & words
+- **4 Scan Strategies** - Bestselling, Favorited, Relevance, Recent
+- **Keyword Search** - Target specific niches
+- **MinFavorites Filter** - Only upload proven sellers
+- **Blacklist System** - Skip banned creators & words
 
 ### Mass Upload Engine
-- **Bulk Upload by ID** — Paste IDs, we handle the rest
-- **Auto Template Overlay** — Your watermark on every item
-- **Multi-Account Support** — Rotate uploaders to avoid limits
-- **Per-Cookie Proxy** — Ultimate protection
+- **Bulk Upload by ID** - Paste IDs, we handle the rest
+- **Auto Template Overlay** - Your watermark on every item
 
 ### Built-in Safety
-- **Nudity Detection AI** — Blocks NSFW automatically
-- **Blacklisted Words Filter** — Roblox-safe names
-- **Comment Disabling** — No DMCA complaints
+- **Nudity Detection AI** - Blocks NSFW automatically
+- **Blacklisted Words Filter** - Roblox-safe names
 
 ### nterprise Security
-- **HWID-Locked License** — One key, one machine
-- **Encrypted Credentials** — AES-256-GCM encryption
-- **Anti-Debug Protection** — No reverse engineering
-- **Obfuscated Codebase** — Source code protected
+- **HWID-Locked License** - One key, one machine
+- **Encrypted Credentials** - AES-256-GCM encryption
 
 ### Premium UX
-- **Modern Dark UI** — Easy on the eyes
-- **Real-time Logs** — See every action + clickable links
-- **One-Click Discord** — Instant support access
-- **Auto Update Check** — Never miss new features
+- **Modern Dark UI** - Easy on the eyes
+- **Real-time Logs** - See every action + clickable links
+- **One-Click Discord** - Instant support access
+- **Auto Update Check** - Never miss new features
 
 ### Zero Setup
-- **Portable EXE** — No installation required
-- **Auto Folder Creation** — Just run and go
-- **Smart Defaults** — Works out of the box
+- **Portable EXE** - No installation required
+- **Auto Folder Creation** - Just run and go
+- **Smart Defaults** - Works out of the box
 
 ---
 
